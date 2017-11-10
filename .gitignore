@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+data/analysis/access*
+data_analysis/access.log.1
+data_analysis/access.log.2
